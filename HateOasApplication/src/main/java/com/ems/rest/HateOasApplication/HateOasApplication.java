@@ -21,6 +21,9 @@ public class HateOasApplication {
 		return (args) ->{
 			repository.addNewEmployee(new Employee(101,"Sample1",10000));
 			repository.addNewEmployee(new Employee(102,"Sample2",20000));
+			repository.addNewEmployee(new Employee(103,"Sample3",30000));
+			repository.addNewEmployee(new Employee(104,"Sample4",40000));
+			repository.addNewEmployee(new Employee(105,"Sample5",50000));
 			
 			System.out.println("Database initially loaded");
 		};

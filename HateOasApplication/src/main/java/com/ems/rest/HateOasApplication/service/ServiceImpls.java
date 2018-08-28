@@ -27,7 +27,6 @@ public class ServiceImpls implements ServiceInterface {
 
 	@Override
 	public List<Employee> viewAllEmployee() {
-		System.out.println("***************");
 		System.out.println(dao);
 		return dao.findAll();
 	}

@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: HateOasApplication
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: lucheniy
+Built-By: uchen
 Implementation-Vendor-Id: com.ems.rest
-Build-Jdk: 1.8.0_121
+Build-Jdk: 1.8.0_181
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
  ot-starter-parent/HateOasApplication
 Created-By: Maven Integration for Eclipse
